@@ -78,7 +78,8 @@ MORE = 1085<br>
 <hr>
 MONEY = 10652<br>
 <hr>
-## Program:
+
+Program:
 
 ```
 # -*- coding: utf-8 -*-
